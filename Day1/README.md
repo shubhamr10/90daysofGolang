@@ -97,3 +97,7 @@ func main() {
 * Go does not require semi-colons.
 * Memory management / Garbage collection: As a program runs they write objects to memory. At some point these objects should be removed, when they are not needed anymore.This process is called Memory management or garbage collection.
 * `go fmt` tools is used to format go code. This is mostly installed with your editors like VS-Code or Goland.
+
+---
+To run the .go file in this folder:
+`go run ./helloworld.go`
